@@ -5,7 +5,7 @@
   "author": "Matteo Manchi <matteo.m@improntaadv.com>",
   "keywords": "react-native",
   "peerDependencies": {
-    "react-native": ">=0.6.0 <1.0.0"
+    "react-native": ">=0.6.0"
   },
   "dependencies": {
     "react-native-overlay": "^0.2.8"
