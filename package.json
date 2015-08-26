@@ -5,9 +5,10 @@
   "author": "Matteo Manchi <matteo.m@improntaadv.com>",
   "keywords": "react-native",
   "dependencies": {
+    "react-native": "^0.9.0",
     "react-native-overlay": "^0.2.8"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git@github.com:ImprontaAdvance/react-native-media-player.git"
   }
